@@ -63,7 +63,7 @@ module.exports = "<link rel=\"stylesheet\" href=\"https://cdn.rawgit.com/openlay
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<span style='font-size: 13px;'>total access page : {{total}}</span>\n"
+module.exports = "<span style='font-size: 13px;display:none'>total access page : {{total}}</span>\n"
 
 /***/ }),
 
